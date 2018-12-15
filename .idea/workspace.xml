@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6651c35a-f522-42f9-9fef-ebcee7dfaea9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Chapter_07_Code/src/Code_06_BestArrange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_07_Code/src/Code_02_LessMoney.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_07_Code/src/Code_02_LessMoney.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_07_Code/src/Code_03_IPO.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_07_Code/src/Code_03_IPO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,37 +23,28 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="11" />
+          <entry key="java" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="11" />
+          <entry key="JAVA" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="76" />
+          <entry key="java" value="354" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="76" />
+          <entry key="JAVA" value="354" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter_00_Sort/src/Code_00_BubbleSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Chapter_01_Code/src/Code_00_BubbleSort.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -86,13 +75,31 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://E:/java学习资料/牛客网/牛客网算法/初级班代码ppt/基础班7、8节代码/基础班/class_07/Code_06_BestArrange.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="5" column="32" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="32" />
+            <state relative-caret-position="399">
+              <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter_08_Code/src/Code_01_Factorial.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Chapter_08_Code/src/Code_02_Hanoi.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Chapter_07_Code/src/Code_06_BestArrange.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="38">
@@ -146,6 +153,9 @@
         <option value="$PROJECT_DIR$/Chapter_07_Code/src/Code_02_LessMoney.java" />
         <option value="$PROJECT_DIR$/Chapter_07_Code/src/Code_03_IPO.java" />
         <option value="$PROJECT_DIR$/Chapter_07_Code/src/Code_06_BestArrange.java" />
+        <option value="E:/java学习资料/牛客网/牛客网算法/初级班代码ppt/基础班7、8节代码/基础班/class_07/Code_06_BestArrange.java" />
+        <option value="$PROJECT_DIR$/Chapter_08_Code/src/Code_01_Factorial.java" />
+        <option value="$PROJECT_DIR$/Chapter_08_Code/src/Code_02_Hanoi.java" />
       </list>
     </option>
   </component>
@@ -219,6 +229,11 @@
             <path>
               <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter_08_Code" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="Sort" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -236,7 +251,7 @@
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://E:/JavaCode/Algorithm/Chapter_01_Code/src/Code_04_InversPairs.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544843582683" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544856459245" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Artifacts" />
@@ -260,7 +275,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Code_00_BubbleSort (1)">
+  <component name="RunManager" selected="Application.Code_02_Hanoi">
     <configuration name="Code_00_BubbleSort (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Code_00_BubbleSort" />
       <module name="Chapter_01_Code" />
@@ -275,12 +290,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Code_02_Hanoi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Code_02_Hanoi" />
+      <module name="Chapter_08_Code" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Code_00_BubbleSort" />
       <item itemvalue="Application.Code_00_BubbleSort (1)" />
+      <item itemvalue="Application.Code_02_Hanoi" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Code_02_Hanoi" />
         <item itemvalue="Application.Code_00_BubbleSort (1)" />
         <item itemvalue="Application.Code_00_BubbleSort" />
       </list>
@@ -297,18 +321,18 @@
       <option name="presentableId" value="Default" />
       <updated>1544712997463</updated>
       <workItem from="1544713001520" duration="2345000" />
-      <workItem from="1544839494098" duration="2172000" />
+      <workItem from="1544839494098" duration="5529000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4517000" />
+    <option name="totallyTimeSpent" value="7874000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2533512" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2533512" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -317,7 +341,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -382,13 +406,6 @@
         <state relative-caret-position="-57" />
       </provider>
     </entry>
-    <entry file="file://E:/java学习资料/牛客网/牛客网算法/初级班代码ppt/基础班7、8节代码/基础班/class_07/Code_06_BestArrange.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="5" column="32" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter_07_Code/src/Code_02_LessMoney.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
@@ -407,6 +424,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/java学习资料/牛客网/牛客网算法/初级班代码ppt/基础班7、8节代码/基础班/class_07/Code_06_BestArrange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_08_Code/src/Code_01_Factorial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_08_Code/src/Code_02_Hanoi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
         </state>
       </provider>
     </entry>
