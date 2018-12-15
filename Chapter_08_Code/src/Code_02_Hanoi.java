@@ -13,7 +13,7 @@ public class Code_02_Hanoi {
     }
 
     public static void main(String[] args) {
-        process(3,"左", "中","右");
+        process(3,"左", "右","中");
 
     }
 }
