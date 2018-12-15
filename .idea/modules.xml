@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Algorithm.iml" filepath="$PROJECT_DIR$/Algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter_00_Sort/Chapter_00_Sort.iml" filepath="$PROJECT_DIR$/Chapter_00_Sort/Chapter_00_Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter_01_Code/Chapter_01_Code.iml" filepath="$PROJECT_DIR$/Chapter_01_Code/Chapter_01_Code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter_02_Code/Chapter_02_Code.iml" filepath="$PROJECT_DIR$/Chapter_02_Code/Chapter_02_Code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter_03_Code/Chapter_03_Code.iml" filepath="$PROJECT_DIR$/Chapter_03_Code/Chapter_03_Code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter_04_Code/Chapter_04_Code.iml" filepath="$PROJECT_DIR$/Chapter_04_Code/Chapter_04_Code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter_05_Code/Chapter_05_Code.iml" filepath="$PROJECT_DIR$/Chapter_05_Code/Chapter_05_Code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter_06_Code/Chapter_06_Code.iml" filepath="$PROJECT_DIR$/Chapter_06_Code/Chapter_06_Code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter_07_Code/Chapter_07_Code.iml" filepath="$PROJECT_DIR$/Chapter_07_Code/Chapter_07_Code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter_08_Code/Chapter_08_Code.iml" filepath="$PROJECT_DIR$/Chapter_08_Code/Chapter_08_Code.iml" />
+    </modules>
+  </component>
+</project>
