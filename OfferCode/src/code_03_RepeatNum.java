@@ -9,6 +9,11 @@ public class code_03_RepeatNum {
     public static int  duplicate1 (int[] arr){
         if (arr == null || arr.length==0)
             return -1;
+        for (int i = 0; i < arr.length; i ++){
+            if (arr[i]  <  0 || arr[i] >= arr.length ) {
+                return -1;
+            }
+        }
         for (int i = 0; i< arr.length; i++){
             while(arr[i]!=i){
                 if (arr[i]==arr[arr[i]]){
@@ -36,7 +41,11 @@ public class code_03_RepeatNum {
     public static int duplicate2(int[] arr){
         if (arr == null || arr.length==0)
             return -1;
-
+        for (int i = 0; i < arr.length; i ++){
+            if (arr[i]  <  0 || arr[i] >= arr.length ) {
+                return -1;
+            }
+        }
         int start = 1;
         int end = arr.length-1;
         while (end >= start){

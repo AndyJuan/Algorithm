@@ -9,7 +9,7 @@
         */
 
 public class code_02_2_SingletonTest {
-    
+
 }
 
 

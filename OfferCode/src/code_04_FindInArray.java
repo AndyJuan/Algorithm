@@ -3,9 +3,11 @@
 
 public class code_04_FindInArray {
     public boolean findArray(int[][] arr, int target){
-        if (arr == null) {
+        if (arr == null || arr.length == 0) {
             return  false;
         }
+
+
         int row = 0;
         int coloum = arr[0].length-1;
 
