@@ -24,7 +24,7 @@
  */
 
 public class code_12_huiSuFa {
-    public boolean hasPath (char[] matrix, int rows , int cols, char[] str){
+    public static boolean hasPath (char[] matrix, int rows , int cols, char[] str){
         if (matrix == null || rows < 1 || cols <1 || str == null){
             return  false;
         }
@@ -50,7 +50,7 @@ public class code_12_huiSuFa {
         }
       return  false;
     }
-    private boolean hasPathCore(char[] matrix,int rows,int cols,int row,int col,char[] str,Integer pathLength,boolean[] visited)
+    private static boolean hasPathCore(char[] matrix,int rows,int cols,int row,int col,char[] str,Integer pathLength,boolean[] visited)
     {
         //如果待查找的字符串的所有字符都在矩阵中找到
         if(pathLength==str.length)
@@ -87,7 +87,10 @@ public class code_12_huiSuFa {
     }
 
     public static void main(String[] args) {
+        char[] matrix = {  'a', 'b', 't', 'g' , 'c', 'f', 'c', 's' , 'j', 'd', 'e', 'h' };
+        char[]  str ={'b','f','c'} ;
 
+        System.out.println(hasPath(matrix, 3,4,str));
     }
 
 }
