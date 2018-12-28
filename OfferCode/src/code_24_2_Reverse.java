@@ -1,15 +1,26 @@
-public class test {
-    public static ListNode reverse(ListNode head) {
-        // 参数校验
-        if (head == null || head.next == null) {
-            return head;
+
+
+public class code_24_2_Reverse {
+
+    //使用递归实现：链表的反转
+    public static ListNode reserve (ListNode head) {
+        if (head == null || head.next == null){
+            return  head;  //递归这里不能返回Null
         }
 
-        ListNode secondElem = head.next;
+        ListNode curNext = head.next;
         head.next = null;
-        ListNode revHead = reverse(secondElem);
-        secondElem.next = head;
+        ListNode revHead = reserve(curNext);
+        curNext.next = head;
         return revHead;
+
+    }
+    //打印列表
+    public static void printList(ListNode head){
+        while(head != null){
+            System.out.print(head.value + "  ");
+            head = head.next;
+        }
     }
 
     public static void main(String[] args) {
@@ -34,17 +45,8 @@ public class test {
 
         printList(head);
         System.out.println();
-        ListNode revHead = reverse(head);
+        ListNode revHead = reserve(head);
         printList(revHead);
     }
-
-    // 打印列表
-    public static void printList(ListNode head) {
-        while (head != null) {
-            System.out.print(head.value + "  ");
-            head = head.next;
-        }
-    }
-
 
 }

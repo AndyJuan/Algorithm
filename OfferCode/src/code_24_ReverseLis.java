@@ -8,6 +8,7 @@
  */
 
 public class code_24_ReverseLis {
+    //用两个节点保存的方法
     public static ListNode reverseList (ListNode head){
         //如果链表为空，则返回空
         if (head == null){
@@ -39,6 +40,7 @@ public class code_24_ReverseLis {
             head = head.next;
         }
     }
+
 
     public static void main(String[] args) {
         ListNode head = new ListNode();
@@ -78,5 +80,8 @@ public class code_24_ReverseLis {
 
         System.out.println("空节点的链表反转：");
         printList(reverseList(null));
+
+
+
     }
 }
