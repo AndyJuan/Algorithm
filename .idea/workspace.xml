@@ -29,22 +29,22 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="42" />
+          <entry key="java" value="44" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="42" />
+          <entry key="JAVA" value="44" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="10754" />
+          <entry key="java" value="11329" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="10754" />
+          <entry key="JAVA" value="11329" />
         </counts>
       </usages-collector>
     </session>
@@ -54,8 +54,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/OfferCode/src/code_08_NextNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+            <state relative-caret-position="247">
+              <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -112,11 +112,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/OfferCode/src/code_18_Duplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
+            <state relative-caret-position="165">
               <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/OfferCode/src/code_21_reorderEvent.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1283">
+              <caret line="72" column="23" selection-start-line="72" selection-start-column="23" selection-end-line="72" selection-end-column="23" />
+              <folding>
+                <element signature="e#875#876#0" expanded="true" />
+                <element signature="e#909#910#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -126,24 +139,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="110">
               <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/OfferCode/src/code_07_1_PrintBinaryTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://E:/java学习资料/牛客网/牛客网算法/初级班代码ppt/基础班1 , 2节代码/basic_class_01/Code_05_MergeSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -193,7 +188,6 @@
         <option value="$PROJECT_DIR$/OfferCode/src/code_05_CombineArrays.java" />
         <option value="$PROJECT_DIR$/OfferCode/src/code_07_rebuiltTree.java" />
         <option value="$PROJECT_DIR$/OfferCode/src/code_07_1_PrintBinaryTree.java" />
-        <option value="$PROJECT_DIR$/OfferCode/src/code_08_NextNode.java" />
         <option value="$PROJECT_DIR$/OfferCode/src/code_09_StackAndQueueConvert.java" />
         <option value="$PROJECT_DIR$/OfferCode/src/code_10_Fibonacci.java" />
         <option value="$PROJECT_DIR$/OfferCode/src/code_11_ReserveArrays.java" />
@@ -206,6 +200,9 @@
         <option value="$PROJECT_DIR$/OfferCode/src/code_06_ListPrint.java" />
         <option value="$PROJECT_DIR$/OfferCode/src/code_18_DeleteNode.java" />
         <option value="$PROJECT_DIR$/OfferCode/src/code_18_Duplication.java" />
+        <option value="$PROJECT_DIR$/OfferCode/src/code_21_reorderOddEven.java" />
+        <option value="$PROJECT_DIR$/OfferCode/src/code_08_NextNode.java" />
+        <option value="$PROJECT_DIR$/OfferCode/src/code_21_reorderEvent.java" />
       </list>
     </option>
   </component>
@@ -216,8 +213,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="375" />
-    <option name="y" value="135" />
+    <option name="x" value="652" />
+    <option name="y" value="30" />
     <option name="width" value="1230" />
     <option name="height" value="960" />
   </component>
@@ -339,7 +336,7 @@
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://E:/JavaCode/Algorithm/Chapter_01_Code/src/Code_04_InversPairs.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545979725188" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545985738882" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../JavaLanguage" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -364,16 +361,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.code_18_DeleteNode">
-    <configuration name="code_14_maxProductAfterCutting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="code_14_maxProductAfterCutting" />
-      <module name="OfferCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="code_15_NumberOf1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="code_15_NumberOf1" />
+  <component name="RunManager" selected="Application.code_21_reorderEvent">
+    <configuration name="code_08_NextNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="code_08_NextNode" />
       <module name="OfferCode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -400,20 +390,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="code_21_reorderEvent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="code_21_reorderEvent" />
+      <module name="OfferCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.code_14_maxProductAfterCutting" />
-      <item itemvalue="Application.code_15_NumberOf1" />
       <item itemvalue="Application.code_16_Power" />
       <item itemvalue="Application.code_17_Print_1_ToMaxOfNDigits" />
       <item itemvalue="Application.code_18_DeleteNode" />
+      <item itemvalue="Application.code_21_reorderEvent" />
+      <item itemvalue="Application.code_08_NextNode" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.code_21_reorderEvent" />
+        <item itemvalue="Application.code_08_NextNode" />
         <item itemvalue="Application.code_18_DeleteNode" />
         <item itemvalue="Application.code_17_Print_1_ToMaxOfNDigits" />
         <item itemvalue="Application.code_16_Power" />
-        <item itemvalue="Application.code_15_NumberOf1" />
-        <item itemvalue="Application.code_14_maxProductAfterCutting" />
       </list>
     </recent_temporary>
   </component>
@@ -436,18 +433,18 @@
       <workItem from="1545611196901" duration="26034000" />
       <workItem from="1545720673196" duration="13358000" />
       <workItem from="1545743002551" duration="1586000" />
-      <workItem from="1545790342914" duration="14289000" />
+      <workItem from="1545790342914" duration="17097000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="83430000" />
+    <option name="totallyTimeSpent" value="86238000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2077748" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2077748" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -456,8 +453,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3569405" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3569405" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -482,6 +479,18 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/OfferCode/src/code_21_reorderEvent.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Chapter_00_Sort/src/BinarySearch.java" />
@@ -719,16 +728,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OfferCode/src/code_08_NextNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/OfferCode/src/code_06_ListPrint.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
@@ -745,8 +744,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/OfferCode/src/code_18_Duplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
+        <state relative-caret-position="165">
           <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OfferCode/src/code_21_reorderOddEven.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OfferCode/src/code_08_NextNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OfferCode/src/code_21_reorderEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1283">
+          <caret line="72" column="23" selection-start-line="72" selection-start-column="23" selection-end-line="72" selection-end-column="23" />
+          <folding>
+            <element signature="e#875#876#0" expanded="true" />
+            <element signature="e#909#910#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

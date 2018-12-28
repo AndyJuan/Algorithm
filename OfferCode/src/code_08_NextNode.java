@@ -16,7 +16,7 @@ class TreeNode{
         this.value = data;
     }
 }
-public class code_08_next {
+public class code_08_NextNode {
     public static TreeNode findnext(TreeNode node){
         if (node == null){
             return node;
