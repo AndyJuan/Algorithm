@@ -13,6 +13,14 @@ import java.util.Stack;
 class ListNode{
     ListNode next = null;
     int value;
+    public void printOut() {
+        System.out.println(value);
+        ListNode tmp = next;
+        while (tmp != null) {
+            System.out.println(tmp.value);
+            tmp = tmp.next;
+        }
+    }
 }
 public class code_06_ListPrint {
     //方法1：使用stack栈的先push后pop
