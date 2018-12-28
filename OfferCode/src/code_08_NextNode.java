@@ -16,8 +16,8 @@ class TreeNode{
         this.value = data;
     }
 }
-public class code_08_NextNode {
-    public static TreeNode findNextNode(TreeNode node){
+public class code_08_next {
+    public static TreeNode findnext(TreeNode node){
         if (node == null){
             return node;
         }
@@ -65,25 +65,25 @@ public class code_08_NextNode {
         head.right.right.parent = head.right;
 
         TreeNode  test = head.left.left;
-        System.out.println(test.value + " next: " + findNextNode(test).value);
+        System.out.println(test.value + " next: " + findnext(test).value);
         test = head.left.left.right;
-        System.out.println(test.value + " next: " + findNextNode(test).value);
+        System.out.println(test.value + " next: " + findnext(test).value);
         test = head.left;
-        System.out.println(test.value + " next: " + findNextNode(test).value);
+        System.out.println(test.value + " next: " + findnext(test).value);
         test = head.left.right;
-        System.out.println(test.value + " next: " + findNextNode(test).value);
+        System.out.println(test.value + " next: " + findnext(test).value);
         test = head.left.right.right;
-        System.out.println(test.value + " next: " + findNextNode(test).value);
+        System.out.println(test.value + " next: " + findnext(test).value);
         test = head;
-        System.out.println(test.value + " next: " + findNextNode(test).value);
+        System.out.println(test.value + " next: " + findnext(test).value);
         test = head.right.left.left;
-        System.out.println(test.value + " next: " + findNextNode(test).value);
+        System.out.println(test.value + " next: " + findnext(test).value);
         test = head.right.left;
-        System.out.println(test.value + " next: " + findNextNode(test).value);
+        System.out.println(test.value + " next: " + findnext(test).value);
         test = head.right;
-        System.out.println(test.value + " next: " + findNextNode(test).value);
+        System.out.println(test.value + " next: " + findnext(test).value);
         test = head.right.right; // 10's next is null
-        System.out.println(test.value + " next: " + findNextNode(test));
+        System.out.println(test.value + " next: " + findnext(test));
     }
 
 }
