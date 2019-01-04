@@ -36,13 +36,38 @@ public class code_29_PrintMatrixClockwisely {
     public void printMatrix (int [][] matrix, int tr, int tc,int dr, int dc, ArrayList<Integer> relist){
       //只有一行
         if (tr == dr){
-            for(int i = tr ; i <=dr; i++){
+            for(int i = tc ; i <=dc; i++){
                 relist.add(matrix[tr][i]);
             }
         }
         //只有一列
-        else if (tc == td){
-
+        else if (tc == dc){
+            for(int i = tr ; i <=dr; i++){
+                relist.add(matrix[i][tc]);
+            }
+        }else{
+            int curR = tr;
+            int curC = tc;
+            //从左到右
+            while (curC != dc){
+                relist.add(matrix[tr][curC]);
+                curC++;
+            }
+            //从上到下
+            while (curR != dr){
+                relist.add(matrix[curR][dc]);
+                curR++;
+            }
+            //从右到左
+            while (curC != tc){
+                relist.add(matrix[dr][curC]);
+                curC--;
+            }
+            //从下到上
+            while (curR != tr){
+                relist.add(matrix[curR][tc]);
+                curR--;
+            }
         }
     }
 
