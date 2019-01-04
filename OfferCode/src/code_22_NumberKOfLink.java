@@ -21,7 +21,7 @@ public class code_22_NumberKOfLink {
                 return null; //链表的长度小于k
             }
         }
-        ListNode behined = listHead; //第二个一起走的zhizhen
+        ListNode behined = listHead; //第二个一起走的指针
         while (ahead.next != null){
             ahead = ahead.next;
             behined = behined.next;

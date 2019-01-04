@@ -6,25 +6,25 @@ import sun.reflect.generics.tree.Tree;
         思路：该节点若存在右节点，右子树的最左节点则为下一节点；若不存在右节点，则向上遍历，直至找到是父节点的左节点的那个节点，该节点的父节点则为下一节点。
         考点：对中序遍历的理解。
 */
-class TreeNode{
+class TreeNodes{
     public int value;
-    public TreeNode left;
-    public TreeNode right;
-    public TreeNode parent;
+    public TreeNodes left;
+    public TreeNodes right;
+    public TreeNodes parent;
 
-    public TreeNode(int data){
+    public TreeNodes(int data){
         this.value = data;
     }
 }
 public class code_08_NextNode {
-    public static TreeNode findnext(TreeNode node){
+    public static TreeNodes findnext(TreeNodes node){
         if (node == null){
             return node;
         }
         if (node.right != null) {
             return getLeftNode(node);
         }else {
-            TreeNode parent = node.parent;
+            TreeNodes parent = node.parent;
             while (parent != null && parent.left != node){
                 node = parent;
                 parent = node.parent;
@@ -33,7 +33,7 @@ public class code_08_NextNode {
         }
     }
 
-    public static TreeNode getLeftNode(TreeNode node){
+    public static TreeNodes getLeftNode(TreeNodes node){
         if (node == null ){
             return node;
         }
@@ -43,28 +43,28 @@ public class code_08_NextNode {
         return node;
     }
     public static void main(String[] args) {
-        TreeNode head = new TreeNode(6);
+        TreeNodes head = new TreeNodes(6);
         head.parent = null;
-        head.left = new TreeNode (3);
+        head.left = new TreeNodes (3);
         head.left.parent = head;
-        head.left.left = new TreeNode (1);
+        head.left.left = new TreeNodes (1);
         head.left.left.parent = head.left;
-        head.left.left.right = new TreeNode (2);
+        head.left.left.right = new TreeNodes (2);
         head.left.left.right.parent = head.left.left;
-        head.left.right = new TreeNode (4);
+        head.left.right = new TreeNodes (4);
         head.left.right.parent = head.left;
-        head.left.right.right = new TreeNode (5);
+        head.left.right.right = new TreeNodes (5);
         head.left.right.right.parent = head.left.right;
-        head.right = new TreeNode (9);
+        head.right = new TreeNodes (9);
         head.right.parent = head;
-        head.right.left = new TreeNode (8);
+        head.right.left = new TreeNodes (8);
         head.right.left.parent = head.right;
-        head.right.left.left = new TreeNode (7);
+        head.right.left.left = new TreeNodes (7);
         head.right.left.left.parent = head.right.left;
-        head.right.right = new TreeNode (10);
+        head.right.right = new TreeNodes (10);
         head.right.right.parent = head.right;
 
-        TreeNode  test = head.left.left;
+        TreeNodes  test = head.left.left;
         System.out.println(test.value + " next: " + findnext(test).value);
         test = head.left.left.right;
         System.out.println(test.value + " next: " + findnext(test).value);
