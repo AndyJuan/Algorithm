@@ -31,46 +31,28 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="63" />
+          <entry key="java" value="65" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="63" />
+          <entry key="JAVA" value="65" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="16714" />
+          <entry key="java" value="17164" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="16714" />
+          <entry key="JAVA" value="17164" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/OfferCode/src/code_30_MinStack.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1050">
-              <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/OfferCode/src/code_31_lsPopOrder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1020">
-              <caret line="34" column="30" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/OfferCode/src/code_31_PrintFromTopToBortom.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -107,17 +89,39 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/OfferCode/src/code_34_FindPath.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="321">
+            <state relative-caret-position="900">
               <caret line="30" column="5" lean-forward="true" selection-start-line="17" selection-start-column="4" selection-end-line="30" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/OfferCode/src/code_33_VerifySquenceOfBST.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="711">
-              <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+            <state relative-caret-position="-39">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OfferCode/src/code_35_RandomListNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="335">
+              <caret line="51" column="25" lean-forward="true" selection-start-line="24" selection-start-column="7" selection-end-line="51" selection-end-column="25" />
+              <folding>
+                <element signature="e#411#412#0" expanded="true" />
+                <element signature="e#445#446#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/OfferCode/src/code_36_TreeNodeConvert.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -174,8 +178,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Chapter_01_Code/src/Code_00_BubbleSort.java" />
-        <option value="$PROJECT_DIR$/Chapter_07_Code/src/Code_02_LessMoney.java" />
         <option value="$PROJECT_DIR$/Chapter_07_Code/src/Code_03_IPO.java" />
         <option value="$PROJECT_DIR$/Chapter_07_Code/src/Code_06_BestArrange.java" />
         <option value="E:/java学习资料/牛客网/牛客网算法/初级班代码ppt/基础班7、8节代码/基础班/class_07/Code_06_BestArrange.java" />
@@ -225,6 +227,8 @@
         <option value="$PROJECT_DIR$/OfferCode/src/code_31_03_PrintFromTopToBottoM.java" />
         <option value="$PROJECT_DIR$/OfferCode/src/code_34_FindPath.java" />
         <option value="$PROJECT_DIR$/OfferCode/src/code_33_VerifySquenceOfBST.java" />
+        <option value="$PROJECT_DIR$/OfferCode/src/code_35_RandomListNode.java" />
+        <option value="$PROJECT_DIR$/OfferCode/src/code_36_TreeNodeConvert.java" />
       </list>
     </option>
   </component>
@@ -241,8 +245,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="363" />
-    <option name="y" value="62" />
+    <option name="x" value="626" />
+    <option name="y" value="21" />
     <option name="width" value="1547" />
     <option name="height" value="950" />
   </component>
@@ -371,7 +375,7 @@
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://E:/JavaCode/Algorithm/Chapter_01_Code/src/Code_04_InversPairs.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546776619537" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546779271734" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../JavaLanguage" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -473,18 +477,18 @@
       <workItem from="1546405633285" duration="1183000" />
       <workItem from="1546599513845" duration="6224000" />
       <workItem from="1546684176606" duration="5222000" />
-      <workItem from="1546773169031" duration="3317000" />
+      <workItem from="1546773169031" duration="5967000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="115159000" />
+    <option name="totallyTimeSpent" value="117809000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="291" y="50" width="1237" height="760" extended-state="0" />
+    <frame x="501" y="17" width="1237" height="760" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.07124682" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19677693" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -551,14 +555,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/OfferCode/src/code_03_1_RepeatNum.java" />
-    <entry file="file://$PROJECT_DIR$/Chapter_08_Code/src/Code_03_Print_All_Subsquences.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="52" selection-start-line="9" selection-start-column="52" selection-end-line="9" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter_08_Code/src/Code_05_Cow.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
@@ -901,17 +897,35 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/OfferCode/src/code_33_VerifySquenceOfBST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-39">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/OfferCode/src/code_34_FindPath.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
+        <state relative-caret-position="900">
           <caret line="30" column="5" lean-forward="true" selection-start-line="17" selection-start-column="4" selection-end-line="30" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OfferCode/src/code_33_VerifySquenceOfBST.java">
+    <entry file="file://$PROJECT_DIR$/OfferCode/src/code_35_RandomListNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="711">
-          <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+        <state relative-caret-position="335">
+          <caret line="51" column="25" lean-forward="true" selection-start-line="24" selection-start-column="7" selection-end-line="51" selection-end-column="25" />
+          <folding>
+            <element signature="e#411#412#0" expanded="true" />
+            <element signature="e#445#446#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OfferCode/src/code_36_TreeNodeConvert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
         </state>
       </provider>
     </entry>
