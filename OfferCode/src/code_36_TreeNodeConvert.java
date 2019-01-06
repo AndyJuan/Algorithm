@@ -11,17 +11,32 @@ import java.util.Stack;
  */
 
 public class code_36_TreeNodeConvert {
-    public TreeNode convert (TreeNode pRootofTree){
-        if (pRootofTree == null){
+    public TreeNode convert (TreeNode pRootOfTree){
+        if (pRootOfTree == null){
             return null;
         }
         Stack<TreeNode> stack = new Stack<>();
-        TreeNode cur = pRootofTree;
+        TreeNode cur = pRootOfTree;
         TreeNode res = null;
         TreeNode pre = null;
         while (cur != null || !stack.isEmpty()){
-            
+            if (cur != null){
+                stack.push(cur);
+                cur = cur.left;
+            }else {
+                cur = stack.pop();
+                if (pre == null){
+                    pre = cur;
+                    res = pre;
+                }else {
+                    pre.right = cur;
+                    cur.left = pre;
+                    pre = cur;
+                }
+                cur = cur.right;
+            }
         }
+        return  res;
     }
 
 }
