@@ -12,5 +12,33 @@
  */
 
 public class code_33_VerifySquenceOfBST {
+        public boolean verifySequenceOfBST (int[] sequence){
+            if (sequence == null || sequence.length <1 ){
+                return false;
+            }
+            return  verify(sequence, 0 , sequence.length - 1);
+        }
 
+        private boolean verify(int[] sequence, int start, int end){
+            if (start >= end){
+                return  true;
+            }
+            int val = sequence[end];
+            int i = start;
+            //在二又搜索树中左子树节点的值小于根节点的值
+            for (; i <= end ; i ++){
+                    if (sequence[i] >= val){
+                        break;
+                    }
+            }
+
+            //在二又搜索树中右子树节点的值大于根节点的值
+            for (int j = i ; j <= end ; j ++){
+                if (sequence[j] < val){
+                    return false;
+                }
+            }
+
+            return verify(sequence, start, i-1 ) && verify(sequence, i, end-1);
+        }
 }
