@@ -17,7 +17,7 @@
     <session id="2082904842">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="13" />
+          <entry key="project.closed" value="14" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.2" value="1" />
@@ -245,8 +245,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="420" />
-    <option name="y" value="17" />
+    <option name="x" value="-270" />
+    <option name="y" value="155" />
     <option name="width" value="1547" />
     <option name="height" value="950" />
   </component>
@@ -375,7 +375,7 @@
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://E:/JavaCode/Algorithm/Chapter_01_Code/src/Code_04_InversPairs.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546780761245" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546780818027" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../JavaLanguage" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -477,16 +477,15 @@
       <workItem from="1546405633285" duration="1183000" />
       <workItem from="1546599513845" duration="6224000" />
       <workItem from="1546684176606" duration="5222000" />
-      <workItem from="1546773169031" duration="7452000" />
+      <workItem from="1546773169031" duration="7631000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="119294000" />
+    <option name="totallyTimeSpent" value="119473000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="336" y="14" width="1237" height="760" extended-state="0" />
-    <editor active="true" />
+    <frame x="-216" y="124" width="1237" height="760" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19677693" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
