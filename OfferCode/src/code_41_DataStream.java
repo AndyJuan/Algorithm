@@ -27,7 +27,11 @@ public class code_41_DataStream {
         }
 
     }
-
+    /**
+     * 获取中位数
+     *
+     * @return 中位数
+     */
 
     public Double GetMedian(){
         int size1 = maxHeap.size();
