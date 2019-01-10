@@ -31,22 +31,22 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="80" />
+          <entry key="java" value="82" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="80" />
+          <entry key="JAVA" value="82" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="22023" />
+          <entry key="java" value="22511" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="22023" />
+          <entry key="JAVA" value="22511" />
         </counts>
       </usages-collector>
     </session>
@@ -60,6 +60,18 @@
               <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
               <folding>
                 <element signature="e#0#627#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OfferCode/src/code_41_DataStream.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-120">
+              <caret line="17" column="31" lean-forward="true" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -92,25 +104,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/OfferCode/src/code_47_GetMaxValue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="691">
-              <caret line="51" column="39" selection-start-line="51" selection-start-column="39" selection-end-line="51" selection-end-column="39" />
+            <state relative-caret-position="120">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://E:/java学习资料/牛客网/牛客网算法/初级班代码ppt/基础班1 , 2节代码/basic_class_01/Code_04_QuickSort.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/OfferCode/src/code_36_TreeNodeConvert.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/OfferCode/src/code_48_LongestSubstringWithoutDuplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="960">
-              <caret line="32" column="24" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
+            <state relative-caret-position="293">
+              <caret line="46" column="34" selection-start-line="46" selection-start-column="34" selection-end-line="46" selection-end-column="34" />
+              <folding>
+                <element signature="e#1298#1299#0" expanded="true" />
+                <element signature="e#1326#1327#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -167,7 +178,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/OfferCode/src/code_04_FindInArray.java" />
         <option value="$PROJECT_DIR$/OfferCode/src/code_03_RepeatNum.java" />
         <option value="$PROJECT_DIR$/OfferCode/src/code_05_ReplaceString.java" />
         <option value="$PROJECT_DIR$/OfferCode/src/code_05_CombineArrays.java" />
@@ -209,7 +219,6 @@
         <option value="$PROJECT_DIR$/OfferCode/src/code_36_TreeNodeConvert.java" />
         <option value="$PROJECT_DIR$/OfferCode/src/code_37_Serialize.java" />
         <option value="$PROJECT_DIR$/OfferCode/src/code_39_MoreThanHalfNum.java" />
-        <option value="$PROJECT_DIR$/OfferCode/src/code_41_DataStream.java" />
         <option value="$PROJECT_DIR$/OfferCode/src/code_40_GetLeastNumbers.java" />
         <option value="$PROJECT_DIR$/OfferCode/src/code_42_FindGreatestSumOfSubArray.java" />
         <option value="$PROJECT_DIR$/OfferCode/src/code_43_NumberOfBetweenIAndN.java" />
@@ -218,6 +227,8 @@
         <option value="$PROJECT_DIR$/OfferCode/src/code_45_PrintMinNumber.java" />
         <option value="$PROJECT_DIR$/OfferCode/src/code_46_getTranslationCount.java" />
         <option value="$PROJECT_DIR$/OfferCode/src/code_47_GetMaxValue.java" />
+        <option value="$PROJECT_DIR$/OfferCode/src/code_41_DataStream.java" />
+        <option value="$PROJECT_DIR$/OfferCode/src/code_48_LongestSubstringWithoutDuplication.java" />
       </list>
     </option>
   </component>
@@ -234,10 +245,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="597" />
-    <option name="y" value="45" />
+    <option name="x" value="698" />
     <option name="width" value="1550" />
-    <option name="height" value="945" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -357,7 +367,7 @@
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://E:/JavaCode/Algorithm/Chapter_01_Code/src/Code_04_InversPairs.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547133558181" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547135001798" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../JavaLanguage" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -383,7 +393,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.code_47_GetMaxValue">
+  <component name="RunManager" selected="Application.code_48_LongestSubstringWithoutDuplication">
     <configuration name="code_08_NextNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="code_08_NextNode" />
       <module name="OfferCode" />
@@ -412,27 +422,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test" />
+    <configuration name="code_48_LongestSubstringWithoutDuplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="code_48_LongestSubstringWithoutDuplication" />
       <module name="OfferCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.test" />
       <item itemvalue="Application.code_24_2_Reverse" />
       <item itemvalue="Application.code_08_NextNode" />
       <item itemvalue="Application.code_37_Serialize" />
       <item itemvalue="Application.code_47_GetMaxValue" />
+      <item itemvalue="Application.code_48_LongestSubstringWithoutDuplication" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.code_48_LongestSubstringWithoutDuplication" />
         <item itemvalue="Application.code_47_GetMaxValue" />
         <item itemvalue="Application.code_37_Serialize" />
         <item itemvalue="Application.code_08_NextNode" />
         <item itemvalue="Application.code_24_2_Reverse" />
-        <item itemvalue="Application.test" />
       </list>
     </recent_temporary>
   </component>
@@ -463,18 +473,18 @@
       <workItem from="1546860801403" duration="4737000" />
       <workItem from="1546947653540" duration="5937000" />
       <workItem from="1547044500684" duration="1015000" />
-      <workItem from="1547123432398" duration="7762000" />
+      <workItem from="1547123432398" duration="9132000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="138924000" />
+    <option name="totallyTimeSpent" value="140294000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="478" y="36" width="1240" height="756" extended-state="0" />
+    <frame x="559" y="0" width="1240" height="830" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13028765" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.08121827" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -483,7 +493,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.30414012" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49915397" visible="true" weight="0.11747851" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.2679083" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -491,7 +501,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3295129" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="10" sideWeight="0.500846" side_tool="true" visible="true" weight="0.11747851" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32704404" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -541,13 +551,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/OfferCode/src/code_05_CombineArrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/OfferCode/src/code_07_rebuiltTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="950">
@@ -817,16 +820,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OfferCode/src/code_41_DataStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="870">
-          <caret line="31" column="6" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/OfferCode/src/code_40_GetLeastNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -916,8 +909,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/OfferCode/src/code_47_GetMaxValue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="691">
-          <caret line="51" column="39" selection-start-line="51" selection-start-column="39" selection-end-line="51" selection-end-column="39" />
+        <state relative-caret-position="120">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OfferCode/src/code_41_DataStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-120">
+          <caret line="17" column="31" lean-forward="true" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OfferCode/src/code_48_LongestSubstringWithoutDuplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="46" column="34" selection-start-line="46" selection-start-column="34" selection-end-line="46" selection-end-column="34" />
+          <folding>
+            <element signature="e#1298#1299#0" expanded="true" />
+            <element signature="e#1326#1327#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -1,5 +1,5 @@
 import org.omg.CORBA.PUBLIC_MEMBER;
-
+import java.util.Comparator;
 import java.util.PriorityQueue;
 
 /**
@@ -11,7 +11,7 @@ import java.util.PriorityQueue;
  */
 public class code_41_DataStream {
     private PriorityQueue<Integer> minHeap = new PriorityQueue<>();
-    private PriorityQueue<Integer> maxHeap = new PriorityQueue<>();
+    private PriorityQueue<Integer> maxHeap = new PriorityQueue<>(Comparator.reverseOrder());
 
     public void insert(Integer num){
         if (maxHeap.isEmpty() || num <maxHeap.peek()){
