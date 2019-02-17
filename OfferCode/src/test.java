@@ -1,3 +1,7 @@
+import java.util.Collection;
+import java.util.Iterator;
+import java.util.Queue;
+
 public class test {
     public static ListNode reverse(ListNode head) {
         // 参数校验
@@ -13,6 +17,7 @@ public class test {
     }
 
     public static void main(String[] args) {
+
         ListNode head = new ListNode();
         head.value = 1;
         ListNode node2 = new ListNode();
