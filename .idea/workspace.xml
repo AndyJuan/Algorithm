@@ -17,79 +17,43 @@
     <session id="2082904842">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="20" />
+          <entry key="project.closed" value="21" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="4" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.5" value="3" />
           <entry key="project.open.time.6" value="5" />
           <entry key="project.open.time.7" value="4" />
           <entry key="project.open.time.8" value="4" />
-          <entry key="project.opened" value="23" />
+          <entry key="project.opened" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="86" />
+          <entry key="java" value="92" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="86" />
+          <entry key="JAVA" value="92" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="24254" />
+          <entry key="java" value="24322" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="24254" />
+          <entry key="JAVA" value="24322" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/OfferCode/src/code_46_getTranslationCount.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/OfferCode/src/code_47_GetMaxValue.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/OfferCode/src/code_48_LongestSubstringWithoutDuplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1320">
-              <caret line="44" selection-start-line="44" selection-end-line="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/OfferCode/src/code_49_UglyNumber.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1650">
-              <caret line="55" column="9" selection-start-line="55" selection-start-column="9" selection-end-line="55" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/OfferCode/src/code_50_FirstNotRepeatingChar.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -126,14 +90,61 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/OfferCode/src/test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="600">
+              <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter_01_Code/src/Code_04_InversPairs.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2132">
+              <folding>
+                <element signature="e#0#4245#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter_01_Code/src/Code_04_SmallSum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter_01_Code/src/Code_11_MaxGap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1080">
+              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Chapter_01_Code/src/Code_08_NetherlandsFlag.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="9" column="39" lean-forward="true" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter_01_Code/src/Code_03_HeapSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="780">
+              <caret line="38" column="27" lean-forward="true" selection-start-line="38" selection-start-column="27" selection-end-line="38" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -163,9 +174,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/OfferCode/src/code_07_1_PrintBinaryTree.java" />
-        <option value="$PROJECT_DIR$/OfferCode/src/code_09_StackAndQueueConvert.java" />
-        <option value="$PROJECT_DIR$/OfferCode/src/code_10_Fibonacci.java" />
         <option value="$PROJECT_DIR$/OfferCode/src/code_11_ReserveArrays.java" />
         <option value="$PROJECT_DIR$/OfferCode/src/code_12_huiSuFa.java" />
         <option value="$PROJECT_DIR$/OfferCode/src/code_13_RobotSport.java" />
@@ -214,6 +222,9 @@
         <option value="$PROJECT_DIR$/OfferCode/src/code_50_2_FirstCharacterInStream.java" />
         <option value="$PROJECT_DIR$/OfferCode/src/code_51_InversePairs.java" />
         <option value="$PROJECT_DIR$/OfferCode/src/test.java" />
+        <option value="$PROJECT_DIR$/Chapter_01_Code/src/Code_11_MaxGap.java" />
+        <option value="$PROJECT_DIR$/Chapter_01_Code/src/Code_03_HeapSort.java" />
+        <option value="$PROJECT_DIR$/Chapter_01_Code/src/Code_08_NetherlandsFlag.java" />
       </list>
     </option>
   </component>
@@ -229,11 +240,11 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="210" />
-    <option name="y" value="25" />
-    <option name="width" value="1525" />
-    <option name="height" value="960" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="555" />
+    <option name="y" value="162" />
+    <option name="width" value="1220" />
+    <option name="height" value="768" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -243,7 +254,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -266,6 +277,11 @@
               <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="Chapter_01_Code" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter_02_Code" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
@@ -347,17 +363,17 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://E:/JavaCode/Algorithm/Chapter_01_Code/src/Code_04_InversPairs.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548591424673" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550415062728" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
@@ -379,10 +395,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.code_50_FirstNotRepeatingChar">
-    <configuration name="code_08_NextNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="code_08_NextNode" />
-      <module name="OfferCode" />
+  <component name="RunManager" selected="Application.Code_11_MaxGap">
+    <configuration name="Code_11_MaxGap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Code_11_MaxGap" />
+      <module name="Chapter_01_Code" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -416,19 +432,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.code_08_NextNode" />
       <item itemvalue="Application.code_37_Serialize" />
       <item itemvalue="Application.code_47_GetMaxValue" />
       <item itemvalue="Application.code_48_LongestSubstringWithoutDuplication" />
       <item itemvalue="Application.code_50_FirstNotRepeatingChar" />
+      <item itemvalue="Application.Code_11_MaxGap" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Code_11_MaxGap" />
         <item itemvalue="Application.code_50_FirstNotRepeatingChar" />
         <item itemvalue="Application.code_48_LongestSubstringWithoutDuplication" />
         <item itemvalue="Application.code_47_GetMaxValue" />
         <item itemvalue="Application.code_37_Serialize" />
-        <item itemvalue="Application.code_08_NextNode" />
       </list>
     </recent_temporary>
   </component>
@@ -465,17 +481,17 @@
       <workItem from="1547462214238" duration="1185000" />
       <workItem from="1548493137739" duration="2498000" />
       <workItem from="1548577810149" duration="1059000" />
+      <workItem from="1550409966650" duration="3685000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="151927000" />
+    <option name="totallyTimeSpent" value="155612000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
-    <editor active="true" />
+    <frame x="444" y="130" width="976" height="614" extended-state="1" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14008042" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.4117647" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -484,7 +500,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49827883" weight="0.2629921" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49673203" weight="0.38381743" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.2679083" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -492,7 +508,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3295129" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50172114" side_tool="true" visible="true" weight="0.16005665" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.503268" side_tool="true" visible="true" weight="0.2614108" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32704404" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -502,7 +518,7 @@
       <window_info anchor="right" id="Database" order="5" />
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="8" visible="true" weight="0.01608579" />
+      <window_info anchor="right" id="Maven Projects" order="8" visible="true" weight="0.019607844" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -511,49 +527,19 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Chapter_01_Code/src/Code_11_MaxGap.java</url>
+          <line>4</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/OfferCode/src/code_14_maxProductAfterCutting.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="44" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OfferCode/src/code_15_NumberOf1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="874">
-          <caret line="46" selection-start-line="46" selection-end-line="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OfferCode/src/code_07_1_PrintBinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/java学习资料/牛客网/牛客网算法/初级班代码ppt/基础班1 , 2节代码/basic_class_01/Code_05_MergeSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OfferCode/src/code_10_Fibonacci.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OfferCode/src/code_12_huiSuFa.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
-          <caret line="66" selection-start-line="66" selection-end-line="66" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/OfferCode/src/code_16_Power.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-8">
@@ -848,11 +834,55 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/OfferCode/src/test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="600">
+          <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_01_Code/src/Code_04_InversPairs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2132">
+          <folding>
+            <element signature="e#0#4245#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/java学习资料/牛客网/牛客网算法/初级班代码ppt/基础班1 , 2节代码/basic_class_01/Code_11_MaxGap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-210">
+          <caret line="2" column="24" lean-forward="true" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_01_Code/src/Code_04_SmallSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_01_Code/src/Code_03_HeapSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="38" column="27" lean-forward="true" selection-start-line="38" selection-start-column="27" selection-end-line="38" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_01_Code/src/Code_11_MaxGap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1080">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_01_Code/src/Code_08_NetherlandsFlag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="39" lean-forward="true" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
         </state>
       </provider>
     </entry>
@@ -909,7 +939,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Algorithm</last-edited>
+          <last-edited>Chapter_02_Code</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
