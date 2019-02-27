@@ -26,7 +26,7 @@ public class code_16_Power {
     // 测试
     public static void main(String[] args) {
         int a = -2147483648;
-        System.out.println(power(1.0, a));
+        System.out.println(power(0, 0));
         System.out.println(power(2.0, 4));
         System.out.println(power(2.0, 3));
 

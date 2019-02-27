@@ -17,47 +17,24 @@ class ListOfNode {
 
 public class code_18_DeleteNode {
     public static void deleteNode(ListOfNode head, ListOfNode toBeDeleted){
-//       //要删除的节点是头结点
-//        if (root.equals(toBeDeleted)){
-//            root= null;
-//            return;
-//        }
-//        //删除的普通节点
-//        ListOfNode temp = toBeDeleted.next;
-//        if (temp!=null){
-//            toBeDeleted.data= temp.data;
-//            if (temp.next != null){
-//                toBeDeleted.next = temp.next;
-//            }
-//            //temp= null;
-//        }else {//删除的是最后节点
-//            temp = root;
-//            while (!temp.next.equals(toBeDeleted)){
-//                temp = temp.next;
-//            }
-//            temp.next = null;
-//        }
-        //参数校验
-        if(head == null || toBeDeleted == null){
-            return ;
-        }
-
-        //链表中只有一个节点，那么待删除的节点既是头结点，又是尾结点
-        if(head == toBeDeleted && head.next == null){
+    if (head == null || toBeDeleted == null)
+        return;
+    if (toBeDeleted.next != null){
+        ListOfNode node = toBeDeleted.next;
+        toBeDeleted.data = node.data;
+        toBeDeleted.next = node.next;
+    }else {
+        if (toBeDeleted == head){
             head = null;
-        }else{
-            //待删除的节点是尾节点
-            if(toBeDeleted.next == null){
-                ListOfNode temp = head;
-                while(temp.next != toBeDeleted){
-                    temp = temp.next;
-                }
-                temp.next = null;
-            }else if(toBeDeleted.next!=null){          //待删除的节点不是尾节点
-                toBeDeleted.data = toBeDeleted.next.data;
-                toBeDeleted.next = toBeDeleted.next.next;
+            return;
+        }else {
+            ListOfNode cur = head;
+            while (cur.next!=toBeDeleted){
+                cur=cur.next;
             }
+            cur.next=null;
         }
+    }
 
     }
     // 测试
@@ -72,7 +49,7 @@ public class code_18_DeleteNode {
 //          temp=temp.next;
 //      }
 
-        deleteNode(head,null );
+        deleteNode(head,c );
         System.out.println("==== after delete ====");
         while (head != null){
             System.out.println(head.data);
