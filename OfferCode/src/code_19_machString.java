@@ -1,5 +1,5 @@
 public class code_19_machString {
-    public boolean match(char[] str, char[] pattern){
+    public static boolean match(char[] str, char[] pattern){
         if (str == null || pattern == null)
             return false;
         return matchCore(str,0,pattern,0);
@@ -13,7 +13,7 @@ public class code_19_machString {
         }
 //当前pattern的下一个是*号时
         if (p+1 < pattern.length && pattern[p+1] == '*'){
-            if (s> str.length){
+            if (s>= str.length){
                 return matchCore(str,s,pattern,p+2);
             }
             else {
@@ -36,6 +36,11 @@ public class code_19_machString {
             }
         }
         return false;
+    }
 
+    public static void main(String[] args) {
+        char[] str = {};
+        char[] pattern = {'.','*'};
+        System.out.println(match(str, pattern));
     }
 }
