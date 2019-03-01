@@ -16,14 +16,16 @@ public class code_37_Serialize {
     //前序遍历序列化
     public static String serialize (TreeNode root){
              if (root == null){
-                 return "$,";
+                 return "# ";
              }
              StringBuffer result = new StringBuffer();
              result.append(root.val);
-             result.append(",");
+             result.append(" ");
              result.append(serialize(root.left));
              result.append(serialize(root.right));
              return result.toString();
+
+
     }
     //反序列化
 //    public static TreeNode deserialize (String str){
@@ -48,20 +50,21 @@ public class code_37_Serialize {
 //    }
     public static int index = -1;
    public static TreeNode deserialize(String str) {
-        String[] strr = str.split(",");
+        String[] strr = str.split(" ");
         int len = strr.length;
         index++;
         if(index >= len){
             return null;
         }
         TreeNode node = null;
-        if(!strr[index].equals("$")){
+        if(!strr[index].equals("#")){
             node = new TreeNode(Integer.valueOf(strr[index]));
             node.left = deserialize(str);
             node.right = deserialize(str);
         }
 
         return node;
+
     }
 
     public static void main(String[] args) {
@@ -81,6 +84,8 @@ public class code_37_Serialize {
         TreeNode deserializeRoot = deserialize(result);
         System.out.print("反序列结果： " );
         prePrint(deserializeRoot);
+
+
 
     }
    public static void prePrint(TreeNode root){
