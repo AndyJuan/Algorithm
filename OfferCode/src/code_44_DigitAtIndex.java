@@ -65,4 +65,9 @@ public class code_44_DigitAtIndex {
                 ? 0
                 : (int) Math.pow(10, digits -1);
     }
+
+    public static void main(String[] args) {
+        code_44_DigitAtIndex e = new code_44_DigitAtIndex();
+        System.out.println(e.digitAtIndex(1001));
+    }
 }
