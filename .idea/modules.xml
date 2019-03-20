@@ -15,6 +15,8 @@
       <module fileurl="file://$PROJECT_DIR$/ExamTest/ExamTest.iml" filepath="$PROJECT_DIR$/ExamTest/ExamTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/Forexercise/Forexercise.iml" filepath="$PROJECT_DIR$/Forexercise/Forexercise.iml" />
       <module fileurl="file://$PROJECT_DIR$/Interview/Interview.iml" filepath="$PROJECT_DIR$/Interview/Interview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCode/LeetCode.iml" filepath="$PROJECT_DIR$/LeetCode/LeetCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Niuke_InputOutput/Niuke_InputOutput.iml" filepath="$PROJECT_DIR$/Niuke_InputOutput/Niuke_InputOutput.iml" />
       <module fileurl="file://$PROJECT_DIR$/OfferCode/OfferCode.iml" filepath="$PROJECT_DIR$/OfferCode/OfferCode.iml" />
     </modules>
   </component>
