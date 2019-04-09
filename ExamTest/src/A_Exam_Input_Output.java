@@ -62,14 +62,14 @@ public class A_Exam_Input_Output {
     public static void form4(){
         //第一行输入{31, 18, 19, 1, 25}
         //第二行输入10
-        Scanner input = new Scanner(System.in);
-        String str = input.nextLine();
-        String str2 = input.nextLine();
-        str = str.substring(1, str.length() - 1);
-        String[] c = str.split(", ");
-        int[] num = new int[c.length];
-        for (int i = 0; i < c.length ; i++) {
-            num[i] = Integer.valueOf(c[i]);
+        Scanner in = new Scanner(System.in);
+        String str1 = in.nextLine();
+        String str2 = in.nextLine();
+        String str = str1.substring(1, str1.length() - 1);
+        String[] word = str.split(",");
+        int[] num = new int[word.length];
+        for (int i = 0; i < word.length ; i++) {
+            num[i] = Integer.valueOf(word[i]);
             System.out.println(num[i]);
 
         }
