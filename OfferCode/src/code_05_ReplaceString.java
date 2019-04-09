@@ -20,6 +20,7 @@ public class code_05_ReplaceString {
                 sb.append(string.charAt(i));
             }
         }
+
         return String.valueOf(sb);
     }
     public static String replceBlank2(String string){

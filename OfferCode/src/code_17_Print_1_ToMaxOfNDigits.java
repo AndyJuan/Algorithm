@@ -46,6 +46,6 @@ public class code_17_Print_1_ToMaxOfNDigits {
 
     // 测试
     public static void main(String[] args) {
-        print1ToMaxOfDigits(1);
+        print1ToMaxOfDigits(2);
     }
 }

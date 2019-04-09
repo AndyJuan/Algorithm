@@ -1,4 +1,4 @@
-package basic_class_01;
+
 
 import java.util.Arrays;
 
@@ -23,14 +23,13 @@ public class Code_04_QuickSort {
 	public static int[] partition(int[] arr, int l, int r) {
 		int less = l - 1;
 		int more = r;
-		int cur=l;
 		while (l < more) {
-			if (arr[cur] < arr[r]) {
-				swap(arr, ++less, cur++);
-			} else if (arr[cur] > arr[r]) {
-				swap(arr, --more, cur);
+			if (arr[l] < arr[r]) {
+				swap(arr, ++less, l++);
+			} else if (arr[l] > arr[r]) {
+				swap(arr, --more, l);
 			} else {
-				cur++;
+				l++;
 			}
 		}
 		swap(arr, more, r);
