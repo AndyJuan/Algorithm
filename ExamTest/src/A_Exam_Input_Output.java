@@ -69,7 +69,7 @@ public class A_Exam_Input_Output {
         String[] word = str.split(",");
         int[] num = new int[word.length];
         for (int i = 0; i < word.length ; i++) {
-            num[i] = Integer.valueOf(word[i]);
+            num[i] = Integer.valueOf(word [i]);
             System.out.println(num[i]);
 
         }
