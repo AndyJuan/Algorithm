@@ -10,7 +10,9 @@ public class A_Exam_Input_Output {
         Scanner in=new Scanner(System.in);
         String num=in.nextLine();
         String s=in.nextLine();
-        int n=Integer.valueOf(num);
+        int n=Integer.parseInt(num);
+        System.out.println(n);
+        System.out.println(s);
 
     }
 
@@ -60,12 +62,13 @@ public class A_Exam_Input_Output {
     }
 
     public static void form4(){
-        //第一行输入{31, 18, 19, 1, 25}
+        //第一行输入{31,18,19,1,25}
         //第二行输入10
         Scanner in = new Scanner(System.in);
         String str1 = in.nextLine();
         String str2 = in.nextLine();
         String str = str1.substring(1, str1.length() - 1);
+        System.out.println(str);
         String[] word = str.split(",");
         int[] num = new int[word.length];
         for (int i = 0; i < word.length ; i++) {
@@ -91,8 +94,27 @@ public class A_Exam_Input_Output {
 
 
     public static void main(String[] args) {
-        form2();
+        form4();
+    int [][] arr ={{12,23,45},{52,32,12}};
+
+
+	//两种方法输出二维数组
+	 for(int i=0;i<arr.length;i++) {
+         for (int j = 0; j < arr[0].length; j++) {
+             System.out.print(arr[i][j] + "\t");
+         }
+         System.out.println();
+     }
+
+
+	for(int [] temp : arr)
+    {
+        for(int a:temp)
+        {
+            System.out.print(a+"\t");
+        }
+        System.out.println();
     }
 
-
+    }
 }
