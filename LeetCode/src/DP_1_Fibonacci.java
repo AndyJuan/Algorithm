@@ -118,6 +118,8 @@ public class DP_1_Fibonacci {
                 dp[i] += dp[j];
         return dp[target - 1];
     }
+
+
     public static void main(String[] args) {
         System.out.println(erroNum(10));
         System.out.println(wrongLetter(10));
